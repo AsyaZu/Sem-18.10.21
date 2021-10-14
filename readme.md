@@ -20,6 +20,8 @@ Command: *git commit -m "text"*
 
 ## Change log
 
+To see all our commits we can use command **git log**
+
 ## Moving between saves
 
 We can move between saves using the command **git checkout (commit number)**
