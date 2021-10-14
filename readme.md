@@ -2,6 +2,8 @@
 
 ## What is git
 
+Git - distributed version control system.
+
 ## Repository preparation
 
 ## Saving changes
