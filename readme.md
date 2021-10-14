@@ -11,6 +11,8 @@ Repository - file storage with versioning support.
 
 Command: *git init*
 
+## Create saves
+
 ## Saving changes
 
 ## Moving between saves
