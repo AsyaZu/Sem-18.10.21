@@ -13,6 +13,10 @@ Command: *git init*
 
 ## Saving changes
 
+We can save our files
+
+Command: *git commit -m "text"*
+
 ## Moving between saves
 
 ## Change log
