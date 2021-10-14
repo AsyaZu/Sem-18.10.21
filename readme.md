@@ -11,13 +11,14 @@ Repository - file storage with versioning support.
 
 Command: *git init*
 
-## Change log
 
 ## Saving changes
 
 We can save our files
 
 Command: *git commit -m "text"*
+
+## Change log
 
 ## Moving between saves
 
