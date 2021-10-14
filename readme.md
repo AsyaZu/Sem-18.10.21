@@ -11,6 +11,7 @@ Repository - file storage with versioning support.
 
 Command: *git init*
 
+## Change log
 
 ## Saving changes
 
@@ -20,7 +21,6 @@ We can move between saves using the command **git checkout (commit number)**
 
 We can undo changes using the commands **git revert (commit number)** and **git resert (commit number)**
 
-## Change log
 
 ## Branches
 
