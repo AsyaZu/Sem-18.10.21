@@ -35,6 +35,8 @@ Command: *git branch (name)*
 
 ## Merging branches and resolving conflicts
 
+Command: *git merge (branch name)*
+
 ## Deleting branches
 
 Command: *git branch -d (branch name)*
