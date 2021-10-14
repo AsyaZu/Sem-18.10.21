@@ -39,8 +39,7 @@ Command: *git branch (name)*
 
 ## Downloading a remote repository
 
-<<<<<<< HEAD
-## Smth 
-=======
 ## Something else
->>>>>>> branches
+
+
+![smth](Catching.JPG)
