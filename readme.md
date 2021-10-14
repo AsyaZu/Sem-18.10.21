@@ -37,6 +37,8 @@ Command: *git branch (name)*
 
 ## Deleting branches
 
+Command: *git branch -d (branch name)*
+
 ## Downloading a remote repository
 
 ## Something else
