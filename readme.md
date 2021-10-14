@@ -29,10 +29,18 @@ We can undo changes using the commands **git revert (commit number)** and **git 
 
 ## Branches
 
+We can create new branches
+
+Command: *git branch (name)*
+
 ## Merging branches and resolving conflicts
 
 ## Deleting branches
 
 ## Downloading a remote repository
 
+<<<<<<< HEAD
 ## Smth 
+=======
+## Something else
+>>>>>>> branches
