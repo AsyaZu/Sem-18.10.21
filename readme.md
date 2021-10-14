@@ -34,3 +34,5 @@ We can undo changes using the commands **git revert (commit number)** and **git 
 ## Deleting branches
 
 ## Downloading a remote repository
+
+## Smth 
