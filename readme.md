@@ -23,3 +23,5 @@ Command: *git init*
 ## Merging branches and resolving conflicts
 
 ## Deleting branches
+
+## Downloading a remote repository
