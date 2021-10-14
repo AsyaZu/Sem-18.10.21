@@ -16,6 +16,8 @@ Command: *git init*
 
 ## Moving between saves
 
+We can move between saves using the command **git checkout (commit number)**
+
 ## Change log
 
 ## Branches
