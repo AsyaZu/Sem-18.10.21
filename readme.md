@@ -41,7 +41,7 @@ Command: *git merge (branch name)*
 
 ## Deleting branches
 
-Command: *git branch -d (branch name)*
+Command: *git branch -d (branch name)*!
 
 ## Downloading a remote repository
 
