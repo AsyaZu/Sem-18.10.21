@@ -45,7 +45,7 @@ Command: *git branch -d (branch name)*
 
 ## Downloading a remote repository
 
-???
+We can download our repository with *git clone (link)* 
 
 ## Something else
 
